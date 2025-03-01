@@ -1,4 +1,3 @@
-# Electronic_Calculator
 # Electronic Calculator using Arduino
 
 ## Project Description
