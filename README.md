@@ -60,4 +60,4 @@ This **Electronic Calculator using Arduino** is a great project for beginners in
 Bawar Husain
 
 ## License
-This project is open-source and can be modified and distributed freely for educational and personal use.
+This project is open-source and can be modified and distributed freely for educational and personal use..
